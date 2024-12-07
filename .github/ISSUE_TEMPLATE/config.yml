@@ -1,7 +1,0 @@
-contact_links:
-  - name: Help
-    url: https://github.com/obxiajs/obxia/discussions/new?category=q-a
-    about: How to use certain obxia feature, or how to achieve something with obxia
-  - name: Compiling/Contributing
-    url: https://github.com/obxiajs/obxia/discussions/new?category=q-a
-    about: How to compile obxia/how to contribute to it
