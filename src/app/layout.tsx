@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Obxia",
+  title: "obxialabs",
   description: "Created By VS",
 };
 
