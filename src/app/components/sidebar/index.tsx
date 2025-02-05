@@ -4,11 +4,7 @@ import React from "react";
 
 import { Separator } from "@/components/ui/separator";
 
-type Props = {
-  slug: string;
-};
-
-const Sidebar = ({ slug }: Props) => {
+const Sidebar = () => {
   return (
     <div
       className="w-[250px] 
