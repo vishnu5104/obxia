@@ -9,7 +9,7 @@ datasource db {
 
 model User {
   id           String         @id @default(dbgenerated("gen_random_uuid()")) @db.Uuid
-  clerkId      String         @unique
+  walletId      String         @unique
   email        String         @unique
   firstname    String?        @unique
   lastname     String?        @unique
